@@ -45,13 +45,13 @@ Read [this](https://telegram.dog/janapraveen/8) before you start messing up with
 You can deploy this bot anywhere.
 
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincess&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/blackhawk2031/Jarvis&branch=main&name=Jarvisbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/LazyDeveloperr/LazyPrincess
+git clone https://github.com/blackhawk2032/jarvis
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
